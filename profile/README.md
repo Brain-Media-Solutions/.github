@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hello, World! 👋
+
+welcome to Brain Media Solution's organisation on GitHub, We are well established and the most effective CCTV Surveillance, Software and ICT Company registered in Uganda, Africa. We believe in the power of technology to make business owners efficient, empowered and happier, so they can focus on what matters most for their business. We design our products to focus on just that – to make our products work just for you, and not the other way around.
+
+
+### Services
+
+* CCTV Surveillance
+* Software Solutions
+* IT Training & IT Support
+* Web Hosting
+* ICT Consultancy
+* IT Infrastucture
+
 
 <!--
 
